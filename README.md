@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohit-080403/DSA-/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-080403/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit-080403/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rohit-080403/DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rohit-080403/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/rohit-080403/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit-080403/DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rohit-080403/DSA-/tree/master/0032-longest-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
