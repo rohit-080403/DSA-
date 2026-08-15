@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit-080403/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-080403/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/rohit-080403/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit-080403/DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rohit-080403/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit-080403/DSA-/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
