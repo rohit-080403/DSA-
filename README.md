@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rohit-080403/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rohit-080403/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohit-080403/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/rohit-080403/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit-080403/DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -83,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
