@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit-080403/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/rohit-080403/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/rohit-080403/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rohit-080403/DSA-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
