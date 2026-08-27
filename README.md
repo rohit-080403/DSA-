@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rohit-080403/DSA-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rohit-080403/DSA-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1922-count-good-numbers](https://github.com/rohit-080403/DSA-/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rohit-080403/DSA-/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/rohit-080403/DSA-/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
