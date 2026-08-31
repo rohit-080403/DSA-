@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/rohit-080403/DSA-/tree/master/0739-daily-temperatures) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohit-080403/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohit-080403/DSA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
