@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rohit-080403/DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit-080403/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rohit-080403/DSA-/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/rohit-080403/DSA-/tree/master/0283-move-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohit-080403/DSA-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-080403/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rohit-080403/DSA-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rohit-080403/DSA-/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/rohit-080403/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
