@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rohit-080403/DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit-080403/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rohit-080403/DSA-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohit-080403/DSA-/tree/master/0283-move-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohit-080403/DSA-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit-080403/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/rohit-080403/DSA-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sliding Window
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-080403/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit-080403/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Prefix Sum
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rohit-080403/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Design
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rohit-080403/DSA-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rohit-080403/DSA-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/rohit-080403/DSA-/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -159,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rohit-080403/DSA-/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/rohit-080403/DSA-/tree/master/1922-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
