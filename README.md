@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohit-080403/DSA-/tree/master/0283-move-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohit-080403/DSA-/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0485-max-consecutive-ones](https://github.com/rohit-080403/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/rohit-080403/DSA-/tree/master/0739-daily-temperatures) |
