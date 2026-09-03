@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rohit-080403/DSA-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohit-080403/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/rohit-080403/DSA-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-080403/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rohit-080403/DSA-/tree/master/0189-rotate-array) |
@@ -168,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rohit-080403/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
