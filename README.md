@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rohit-080403/DSA-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-080403/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rohit-080403/DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rohit-080403/DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit-080403/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rohit-080403/DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohit-080403/DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit-080403/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/rohit-080403/DSA-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rohit-080403/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohit-080403/DSA-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rohit-080403/DSA-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rohit-080403/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohit-080403/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/rohit-080403/DSA-/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -187,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohit-080403/DSA-/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohit-080403/DSA-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohit-080403/DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
