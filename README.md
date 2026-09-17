@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0844-backspace-string-compare](https://github.com/rohit-080403/DSA-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rohit-080403/DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohit-080403/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/rohit-080403/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rohit-080403/DSA-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rohit-080403/DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohit-080403/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
