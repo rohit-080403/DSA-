@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohit-080403/DSA-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rohit-080403/DSA-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rohit-080403/DSA-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit-080403/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohit-080403/DSA-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohit-080403/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rohit-080403/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rohit-080403/DSA-/tree/master/0141-linked-list-cycle) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohit-080403/DSA-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rohit-080403/DSA-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/rohit-080403/DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohit-080403/DSA-/tree/master/0234-palindrome-linked-list) |
