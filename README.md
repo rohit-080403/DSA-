@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohit-080403/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohit-080403/DSA-/tree/master/0283-move-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohit-080403/DSA-/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0403-frog-jump](https://github.com/rohit-080403/DSA-/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/rohit-080403/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rohit-080403/DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rohit-080403/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rohit-080403/DSA-/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/rohit-080403/DSA-/tree/master/0403-frog-jump) |
 ## Stack
 |  |
 | ------- |
