@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/rohit-080403/DSA-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rohit-080403/DSA-/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/rohit-080403/DSA-/tree/master/0994-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rohit-080403/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohit-080403/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohit-080403/DSA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rohit-080403/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rohit-080403/DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/rohit-080403/DSA-/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/rohit-080403/DSA-/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rohit-080403/DSA-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rohit-080403/DSA-/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/rohit-080403/DSA-/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
