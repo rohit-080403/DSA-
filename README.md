@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/rohit-080403/DSA-/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/rohit-080403/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rohit-080403/DSA-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/rohit-080403/DSA-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rohit-080403/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/rohit-080403/DSA-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/rohit-080403/DSA-/tree/master/0733-flood-fill) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohit-080403/DSA-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rohit-080403/DSA-/tree/master/0070-climbing-stairs) |
 | [0403-frog-jump](https://github.com/rohit-080403/DSA-/tree/master/0403-frog-jump) |
+| [0542-01-matrix](https://github.com/rohit-080403/DSA-/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rohit-080403/DSA-/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rohit-080403/DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rohit-080403/DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/rohit-080403/DSA-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rohit-080403/DSA-/tree/master/0994-rotting-oranges) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rohit-080403/DSA-/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rohit-080403/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rohit-080403/DSA-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rohit-080403/DSA-/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
